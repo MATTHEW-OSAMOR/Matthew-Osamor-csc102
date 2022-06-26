@@ -1,0 +1,2 @@
+n = "KingAKin"
+print(n)
